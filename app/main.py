@@ -1,6 +1,5 @@
 import streamlit as st
 
-
 st.write("""
     # Bad Boy Records V2
 """)
