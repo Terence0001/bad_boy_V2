@@ -1,4 +1,6 @@
 *.venv
 *.pyc
 *.wav
-dataset
+data
+*.csv
+*.pt
